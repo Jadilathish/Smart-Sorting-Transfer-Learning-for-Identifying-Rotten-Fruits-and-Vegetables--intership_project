@@ -14,8 +14,9 @@ click the link and wait a minute to load the application and then refresh or ope
 ## 📸 Demo Visuals
 
 ### 🏠 Home Page  
-![Home](https://raw.githubusercontent.com/vamsi746/smartsort/main/Executablefiles/static/img/home1.JPG)
-![Home](https://raw.githubusercontent.com/vamsi746/smartsort/main/Executablefiles/static/img/home2.JPG)
+<img width="1920" height="1080" alt="Screenshot (583)" src="https://github.com/user-attachments/assets/e0077ba9-62bf-4c46-a363-21e29d5d758c" />
+<img width="1920" height="1080" alt="Screenshot (584)" src="https://github.com/user-attachments/assets/14759493-afa4-42a9-ab67-33e471d46b75" />
+
 
 ### 🔍 Predict Page  
 ![Predict](https://raw.githubusercontent.com/vamsi746/smartsort/main/Executablefiles/static/img/predict.JPG)
@@ -27,14 +28,16 @@ click the link and wait a minute to load the application and then refresh or ope
 ![About](https://raw.githubusercontent.com/vamsi746/smartsort/main/Executablefiles/static/img/about.JPG)
 
 ### Contact
-![Contact](https://raw.githubusercontent.com/vamsi746/smartsort/main/Executablefiles/static/img/contact.JPG)
+<img width="1920" height="1080" alt="Screenshot (590)" src="https://github.com/user-attachments/assets/d27a0342-1ae6-400e-aaab-c3a6faafb5d3" />
+
+<img width="1920" height="1080" alt="Screenshot (591)" src="https://github.com/user-attachments/assets/ea302184-6a30-404f-a82e-e238ae36fe65" />
+
 
 ## 🎥Demo Video:
-https://drive.google.com/file/d/1EcAr1ilwNYb5LmQCAqHbLeSSfQie_aP0/view?usp=drive_link
+https://drive.google.com/file/d/1W26DcKPSnwxO8gVYwLsN2Tkug1zpECqo/view?usp=sharing
 
 # 📄Project Documents
-
-https://drive.google.com/drive/folders/1qFkje3qVwev1YwJdh9Jbb_gxJ2Suvy4A?usp=sharing
+https://drive.google.com/drive/folders/1lO8CeXBpDSK54ffyY4JHPWkCMBCORJ2F?usp=sharing
 ## access all the project related templates and reports here 
 
 
@@ -114,10 +117,10 @@ Then open http://127.0.0.1:5000 in your browser.
 
 | Name             | Role               | GitHub Profile                          |
 |------------------|--------------------|------------------------------------------|
-| Lakshmi Narayana   | Project Lead | [@vamsi746](https://github.com/vamsi746) |
-| Kushulatha      | Developer     | [@Kushulatha-k](https://github.com/Kushulatha-k) |
-| Devi Vara Prasad       | Developer   | [@devi5110985](https://github.com/devi5110985) |
-| Heshwanth   | Developer | [@Heshwanth24](https://github.com/Heshwanth24) |
+| Jadi Lathish   | Project Lead | https://github.com/Jadilathish |
+|   Siddanatham Sathya Sai      | Developer     | https://github.com/sathyasai-gif |
+|    B venkata Harsha Vardhan | Developer   |https://github.com/bharsha11567-source  |
+|   Batchu pavan Kumar | Developer | https://github.com/bat970 |
 
 ## 🎯 Use Cases-
 🏭 Factories: Automated sorting of fresh vs rotten produce
@@ -136,9 +139,9 @@ VGG16 – pre-trained model for transfer learning
 Flask – lightweight Python web framework
 
 # ✍️ Author
-## 🧑🏻‍💻 Lakshmi Narayana
-## 🔗 GitHub: https://github.com/vamsi746
-## 🔗 LinkedIn: www.linkedin.com/in/lakshmi-narayana-sangaraju-a814472b6
+## 🧑🏻‍💻 Jadi Lathish
+## 🔗 GitHub: https://github.com/Jadilathish
+## 🔗 LinkedIn: https://www.linkedin.com/in/lathish-jadi-551150287/
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
